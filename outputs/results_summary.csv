@@ -1,0 +1,2 @@
+train_rmse,test_rmse,train_r2,test_r2,best_config,n_samples_train,n_samples_test,input_features,output_features
+0.03135158494114876,0.038070421665906906,0.9535236801555569,0.9400144364115823,"{'hidden': (256, 256, 128), 'lr': 0.0003, 'dropout': 0.1, 'weight_decay': 0.0001, 'batch_size': 32, 'use_batch_norm': False, 'epochs': 300, 'patience': 30}",421,106,55,50
